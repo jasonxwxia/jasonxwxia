@@ -69,8 +69,9 @@ Hi there👋! I'm <br>
 <!-- Stat Cards -->
 ## 📊 My Github Stats 
 
-<p align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=jasonxwxia&theme=github" alt="Jason's Activity Chart"></p>
-<img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasonxwxia&layout=donut&theme=nord">&#8287;&#8287;<img height=185 width=405 align="center" src="https://streak-stats.demolab.com/?user=jasonxwxia&theme=nord">
+
+<p align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=jasonxwxia&theme=github" alt="Jason's Activity Chart">
+<img height=300 width=380 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasonxwxia&layout=donut&theme=nord">&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;<img height=255 width=585 align="center" src="https://streak-stats.demolab.com/?user=jasonxwxia&theme=nord"></p>
 
 <!--Let's connect-->
 
