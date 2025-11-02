@@ -1,4 +1,4 @@
-<!-- Header Section -->
+<-- Header Section -->
 <h1 align="center">
 Hi there👋! I'm <br>
 <a href="https://github.com/jasonxwxia"><img src="./assets/NameHeading.png" alt="Jason Xia"></a>
@@ -18,7 +18,6 @@ Hi there👋! I'm <br>
 </p>
 
 
----
 <!-- About Me -->
 ## About Me
 
@@ -26,7 +25,6 @@ Hi there👋! I'm <br>
 - I'm an avid learner of physics and computer science, and enjoy doing random projects in my free time.
 <br>
 
----
 <!-- Skills and Tools -->
 ## 🛠️ Skills & Tools 
 ##### Currently Working With:
@@ -37,7 +35,6 @@ Hi there👋! I'm <br>
 [![My Skills](https://skillicons.dev/icons?i=mongodb,ruby,c,cpp,fortran,react,nodejs,nextjs,kubernetes,figma&perline=12)](https://skillicons.dev)
 <br>
 
----
 <!-- Projects Contributed To -->
 ## 📘 Projects
 <p align="left">
@@ -56,7 +53,6 @@ Hi there👋! I'm <br>
 </p>
 <br>
 
----
 <!-- GH Achievements -->
 ## 🏆 Achievements
 
@@ -65,15 +61,14 @@ Hi there👋! I'm <br>
 <br>[Check me out on Credly!](https://www.credly.com/users/jason-xia.c467f427/badges#credly)
 <br>
 
----
 <!-- Stat Cards -->
 ## 📊 My Github Stats 
 
 
 <p align="center">
 	<img src="https://github-readme-activity-graph.vercel.app/graph?username=jasonxwxia&theme=github" alt="Jason's Activity Chart">
-	<img height=300 width=380 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasonxwxia&layout=donut&theme=nord">&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;
-	<img height=255 width=585 align="center" src="https://streak-stats.demolab.com/?user=jasonxwxia&theme=nord">
+	<img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasonxwxia&layout=donut&theme=nord">&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;
+	<img height=185 width=405 align="center" src="https://streak-stats.demolab.com/?user=jasonxwxia&theme=nord">
 </p>
 
 <!--Let's connect-->
