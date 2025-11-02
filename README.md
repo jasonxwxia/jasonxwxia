@@ -1,4 +1,4 @@
-<-- Header Section -->
+<!-- Header Section -->
 <h1 align="center">
 Hi there👋! I'm <br>
 <a href="https://github.com/jasonxwxia"><img src="./assets/NameHeading.png" alt="Jason Xia"></a>
